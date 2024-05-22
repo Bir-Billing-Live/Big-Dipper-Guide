@@ -1,0 +1,15 @@
+{
+  "name": "Big Dipper Travel Guide",
+  "short_name": "Big Dipper Travel Guide",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#445c54",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "saffronstays-logo.svg",
+      "sizes": "any"
+    }
+  ]
+}

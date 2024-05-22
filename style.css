@@ -1,0 +1,73 @@
+body {
+    background:#efefef;
+}
+.btn-primary {
+    background: #ee9c00;
+    border-color: #ee9c00;
+}
+.btn-primary:hover, .btn-primary:active {
+    background: #e36b00;
+    border-color: #e36b00;
+}
+.head-container {
+    height: 300px;
+    background: url(a3xwexofahbfvorvno4u.webp) center top no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.h1-brand {
+    color:#fff;
+    font-weight: bold;
+}
+.navbar-brand-text {
+    color: #fff;
+    font-size: 21px;
+    text-transform: uppercase;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.property-name {
+    position: absolute;
+    bottom:0;
+    color:#fff;
+    backdrop-filter: blur(1px);
+    text-shadow: 2px 1px #0000003b;
+    width: 100%;
+}
+.sl-fixed-header{background:#445c54;}
+
+.ic-round {
+    background: #ee9c00;
+    color: #fff;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.footer-nav {
+    color: #fff;
+    z-index: 1;
+    padding:5px;
+    background: #445c54;
+    z-index:1111;
+}
+.btn-footer {
+    color:#fff;
+    font-size: smaller;
+}
+.footer-nav i {
+    font-size:22px;
+}
+
+.navbar.fixed-top,
+.body-wrapper,
+.footer-nav {
+    max-width: 480px;
+    margin:0 auto;
+}
+
+.footer-nav a:hover,
+.footer-nav button:hover {
+    color: #ee9c00;
+}
