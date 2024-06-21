@@ -45,6 +45,9 @@ body {
     display: inline-block;
     text-align: center;
 }
+.accordion-item:last-of-type {
+    margin-bottom: 56px;
+}
 .footer-nav {
     color: #fff;
     z-index: 1;
